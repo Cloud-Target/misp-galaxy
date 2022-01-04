@@ -1,0 +1,110 @@
+{
+  "authors": [
+    "Lucas Magalhães"
+  ],
+  "category": "Clientes CT",
+  "description": "Clientes atendidos pela Cloud Target",
+  "name": "Clientes Cloud Target",
+  "source": "Cloud Target",
+  "type": "clientes-ct",
+  "uuid": "5451eae5-9e7e-4b32-ae46-ff4e9147d276",
+  "local_only": 1,
+  "values": [
+    {
+      "description": "Cloud Target",
+      "uuid": "d3390d44-31f8-4968-a72c-fdb1ba165db0",
+      "value": "CT"
+    },
+    {
+      "description": "Lee, Brock e Camargo Advogados",
+      "uuid": "b057e67d-ce53-48b8-a244-4fd4727784ea",
+      "value": "LBCA"
+    },
+    {
+      "description": "Click Interativo",
+      "uuid": "6d2d8d79-efa6-4d27-ab39-75005c386e43",
+      "value": "Click"
+    },
+    {
+      "description": "Vigor alimentos",
+      "uuid": "7679e93f-7e1e-4809-9a2c-c1c3419f4ae5",
+      "value": "Vigor"
+    },
+    {
+      "description": "Votorantim S.A.",
+      "uuid": "d49566bd-bb5a-4340-abd6-1cbd65abaa1d",
+      "value": "VSA"
+    },
+    {
+      "description": "Companhia Brasileira de Alumínio",
+      "uuid": "8af6a46a-9a1a-47d0-b4da-627c8c984a32",
+      "value": "CBA"
+    },
+    {
+      "description": "Acerías Paz del Rio",
+      "uuid": "ddaf8079-9265-4ae2-b3a5-8ddbf77805bb",
+      "value": "APDR"
+    },
+    {
+      "description": "Acerías Bragado",
+      "uuid": "69f2a7fd-dc59-41f7-a417-c408a5c558d0",
+      "value": "ACERBRAG"
+    },
+    {
+      "description": "Votorantim Metais",
+      "uuid": "9a3d12a9-4214-41f6-a6cd-f7708be045c9",
+      "value": "VM"
+    },
+    {
+      "description": "Votorantim Cimentos",
+      "uuid": "b394284d-953d-481b-b463-773917b5ed17",
+      "value": "VC"
+    },
+    {
+      "description": "Juntos Somos Mais",
+      "uuid": "847b6361-fc4f-4c27-a42a-ef011db51ce3",
+      "value": "JSM"
+    },
+    {
+      "description": "Itacamba Cemento S.A.",
+      "uuid": "b7a29a64-f465-4d2c-bb3c-026a7a72683e",
+      "value": "ITA"
+    },
+    {
+      "description": "Votorantim Cements North America",
+      "uuid": "4c621e7c-7517-44af-9809-5bbe281022dc",
+      "value": "VCNA"
+    },
+    {
+      "description": "Votorantim Cements Europe, Asia and Africa",
+      "uuid": "9ce44a38-322d-4b78-b884-d190e3d60e8e",
+      "value": "VCEAA"
+    },
+    {
+      "description": "Nexa Resources",
+      "uuid": "d84f6d3e-c52f-48b6-b9c0-7376781bf0b9",
+      "value": "NEXA"
+    },
+    {
+      "description": "Companhia Elétrica de São Paulo",
+      "uuid": "b0fe02af-6b06-40a4-a719-c0c1b9a0618e",
+      "value": "CESP"
+    },
+    {
+      "description": "Votorantim Energia",
+      "uuid": "930a3fdc-bc6a-4ada-9206-51121da6b1e2",
+      "value": "VE"
+    },
+    {
+      "description": "Teatro Santander",
+      "uuid": "17fd9295-17f8-4517-a35b-53de255240dc",
+      "value": "Teatro"
+    },
+    {
+      "description": "Britech",
+      "uuid": "d06851c4-0f2e-48fa-b6cc-557d7c980a84",
+      "value": "Britech"
+    }
+  ],
+  "version": 1
+}

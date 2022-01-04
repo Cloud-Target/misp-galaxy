@@ -1,0 +1,9 @@
+{
+  "description": "Clientes da Cloud Target",
+  "icon": "cloud",
+  "name": "Clientes Cloud Target",
+  "namespace": "cloud-target",
+  "type": "clientes-ct",
+  "uuid": "dbd535e8-f502-4044-901e-ccded8985d4b",
+  "version": 1
+}
