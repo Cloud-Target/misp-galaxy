@@ -28,7 +28,7 @@
     {
       "description": "Vigor alimentos",
       "uuid": "7679e93f-7e1e-4809-9a2c-c1c3419f4ae5",
-      "value": "Vigor"
+      "value": "VGR"
     },
     {
       "description": "Votorantim S.A.",
@@ -103,7 +103,7 @@
     {
       "description": "Britech",
       "uuid": "d06851c4-0f2e-48fa-b6cc-557d7c980a84",
-      "value": "Britech"
+      "value": "BTH"
     }
   ],
   "version": 1
