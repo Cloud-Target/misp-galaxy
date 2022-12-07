@@ -7,8 +7,7 @@
   "name": "Clientes Cloud Target",
   "source": "Cloud Target",
   "type": "clientes-ct",
-  "uuid": "5451eae5-9e7e-4b32-ae46-ff4e9147d276",
-  "local_only": 1,
+  "uuid": "dbd535e8-f502-4044-901e-ccded8985d4b",
   "values": [
     {
       "description": "Cloud Target",
@@ -23,7 +22,7 @@
     {
       "description": "Click Interativo",
       "uuid": "6d2d8d79-efa6-4d27-ab39-75005c386e43",
-      "value": "Click"
+      "value": "CLK"
     },
     {
       "description": "Vigor alimentos",
@@ -83,7 +82,7 @@
     {
       "description": "Nexa Resources",
       "uuid": "d84f6d3e-c52f-48b6-b9c0-7376781bf0b9",
-      "value": "NEXA"
+      "value": "NX"
     },
     {
       "description": "Companhia Elétrica de São Paulo",
@@ -106,5 +105,5 @@
       "value": "BTH"
     }
   ],
-  "version": 1
+  "version": 3
 }
